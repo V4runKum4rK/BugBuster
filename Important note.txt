@@ -1,0 +1,8 @@
+💡 Notes
+Run responsibly. Always get proper authorization before testing.
+This is a reconnaissance and basic vulnerability scanner, not a full-fledged exploitation tool.
+Extend it with Nuclei templates, Burp Suite API, or custom scripts for more power.
+
+📬 Contact
+Created by Varun Kumar
+Feel free to raise issues or contribute with PRs!
