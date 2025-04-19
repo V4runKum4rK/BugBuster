@@ -1,6 +1,6 @@
 🛠️ Installation
 Clone the repository:
-git clone https://github.com/yourusername/bugbuster.git
+git clone https://github.com/varunkumar888/bugbuster.git
 cd bugbuster
 chmod +x bugbuster.sh
 
