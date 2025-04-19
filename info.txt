@@ -1,0 +1,13 @@
+BugBuster - Modular Bug Bounty Toolkit
+Created by: Varun
+
+Modules Included:
+- XSS, SQLi, IDOR, CSRF, JWT, GraphQL, SSRF, XXE, API fuzzing and more
+
+Features:
+- JSON output for reporting
+- Passive Shodan scanning
+- Nuclei template integration
+- Flags like --xss, --sqli, --all
+
+GitHub: https://github.com/varunkumar888/BugBuster
