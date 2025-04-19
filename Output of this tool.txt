@@ -1,0 +1,19 @@
+📂 Output Example
+     bugbuster_output/
+                    ├── allurls.txt
+                    ├── subdomains.txt
+                    ├── live.txt
+                    ├── xss.txt
+                    ├── sqli_urls.txt
+                    ├── sqlmap.txt
+                    ├── idor.txt
+                    ├── ssrf.txt
+                    ├── csrf_clickjack.txt
+                    ├── cors.txt
+                    ├── graphql_endpoints.txt
+                    ├── graphql_scan.txt
+                    ├── jwt_tokens.txt
+                    ├── jwt_analysis.txt
+                    ├── api_endpoints.txt
+                    ├── api_ffuf.csv
+                    └── host_header.txt
