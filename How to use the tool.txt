@@ -1,0 +1,3 @@
+🧪 Usage
+./bugbuster.sh example.com
+Output will be stored in the bugbuster_output directory, organized by vulnerability type.
