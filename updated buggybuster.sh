@@ -37,7 +37,7 @@ fi
 ### 2. Live Host Checking ###
 log "${YELLOW}[*] Checking for live hosts with httpx...${RESET}"
 if check_tool httpx; then
-    httpx -l "$OUTPUT_DIR/subdomains.txt" -silent -o "$OUTPUT_DIR/live.txt"
+    cat "$OUTPUT_DIR/subdomains.txt" | httpx -o "$OUTPUT_DIR/live.txt"
 fi
 
 # Exit if no live hosts
