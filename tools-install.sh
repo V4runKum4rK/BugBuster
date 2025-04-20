@@ -1,5 +1,3 @@
-#### `install.sh`
-```bash
 #!/bin/bash
 echo "[*] Installing required tools..."
 sudo apt update
